@@ -17,9 +17,9 @@ body {
 h1 {
   margin: 30px;
   font-family: 'monospace', cursive;
-  text-shadow: 4px 0 #232931;
+  text-shadow: 4px 0 #b0b7c0;
   font-size: 4rem;
-  color: #ff0000;
+  color: #080d49;
 }
 
 p {
@@ -31,6 +31,19 @@ p {
 img {
   width: 80%;
 }
+
+table {
+  border: 5px solid black;
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+td {
+  border: 5px solid black;
+  padding: 10px;
+}
+
+
 
 footer {
   margin-top: 75%;
