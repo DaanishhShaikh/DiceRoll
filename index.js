@@ -1,5 +1,5 @@
-var message = "Refresh the page and let the site roll the dice! Trust me it's random(wink wink!)";
-alert(message);
+// var message = "Refresh the page and let the site roll the dice! Trust me it's random(wink wink!)";
+// alert(message);
 
 var randomNumber1 = Math.floor(Math.random() * 6) + 1;
 
