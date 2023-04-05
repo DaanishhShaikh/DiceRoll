@@ -1,3 +1,8 @@
+window.onload = function() {
+  var message = "Welcome Please Refresh the page and let the site roll the dice! Trust me it's random(wink wink!)";
+  alert(message);
+};
+
 var randomNumber1 = Math.floor(Math.random() * 6) + 1;
 
 var randomDiceImage = "dice" + randomNumber1 + ".png";
