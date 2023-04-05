@@ -17,13 +17,13 @@ body {
 h1 {
   margin: 30px;
   font-family: 'monospace', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 6rem;
+  text-shadow: 4px 0 #232931;
+  font-size: 4rem;
   color: #ff0000;
 }
 
 p {
-  font-size: 2rem;
+  font-size: 4rem;
   color: #000000;
   font-family: 'Indie Flower', cursive;
 }
@@ -37,5 +37,6 @@ footer {
   color: #000000;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  font-size: 6rem;
 
 }
