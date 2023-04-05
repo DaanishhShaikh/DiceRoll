@@ -22,6 +22,14 @@ h1 {
   color: #ff0000;
 }
 
+h2 {
+  margin: 30px;
+  font-family: 'monospace', cursive;
+  text-shadow: 4px 0 #232931;
+  font-size: 4rem;
+  color: #ff0000;
+}
+
 p {
   font-size: 4rem;
   color: #000000;
